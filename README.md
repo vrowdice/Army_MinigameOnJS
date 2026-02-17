@@ -1,9 +1,5 @@
 # **Army Minigame on JS**
 
-### **English**
-
-# **Army Minigame on JS**
-
 ## **Game Service Overview**
 
 A web-based game collection that focuses on the essence of classic minigames, moving away from complex modern games.
